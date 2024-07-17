@@ -3,3 +3,5 @@ dataroot/
 .ipynb_checkpoints/main-checkpoint.ipynb
 .ipynb_checkpoints/exploration-checkpoint.ipynb
 .ipynb_checkpoints/model-checkpoint.ipynb
+current_model.keras
+.ipynb_checkpoints/testing-checkpoint.ipynb
